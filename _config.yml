@@ -1,6 +1,13 @@
 title: GignLearn
 description: Fun & Educational Hub for Kids!
-theme: jekyll-theme-cayman # A bold, colorful starting theme
-show_downloads: false
-google_analytics: # We can add your ID later for AdSense prep
+theme: jekyll-theme-cayman
 
+# This tells GitHub which pages to put in the top menu
+header_pages:
+  - index.md
+  - blog.md
+  - games.md
+  - tools.md
+  - printables.md
+  - videos.md
+  - about.md
